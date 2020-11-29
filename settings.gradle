@@ -1,0 +1,2 @@
+include ':app', ':business', ':provider', ':entity', ':infrastructure'
+rootProject.name='FoodSelector'
